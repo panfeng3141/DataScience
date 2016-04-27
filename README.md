@@ -3,3 +3,6 @@
 ##数据科学介绍
 
 “Data Science is the art of turning `data` into `acitons`.”-《The Field Guide to Data Science》
++ Hacking Skills
++ Math &Statistics Knownlege
++Substantive Expertise
