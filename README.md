@@ -1,5 +1,5 @@
-#123
+#数据科学导论笔记
 
-123naiohjhijnjdmnDLNDpetjmdlndgzmn;jjtnlzdmgl;nmjeponm
+##数据科学介绍
 
-+ gmwhmametopjeatjoem
+“Data Science is the art of turning `data` into `acitons`.”-《The Field Guide to Data Science》
