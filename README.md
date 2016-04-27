@@ -28,7 +28,7 @@
 ##统计思维的陷阱 5/5
 + 批判性思维
 
-本节参考数据 [`传送门`]( http://pan.baidu.com/s/1clyd46)
+本节参考数据 [`传送门下载`]( http://pan.baidu.com/s/1clyd46)
 - 《深入浅出数据分析》
 - 《统计学的世界》
 - 《利用python进行数据分析》
@@ -37,15 +37,13 @@
 - Think Stats
 - Python for scientists
 - [Scipy Lecture Notes](http://scipy-lectures.org)
-
 ---
-
 - 《赤裸裸的统计学》
 - 《统计学的世界》
 - 《女士品茶》
 - 《数据科学实战第1章》
 
-end
+－end－
 
 
 
