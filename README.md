@@ -33,6 +33,16 @@
 - 《统计学的世界》
 - 《利用python进行数据分析》
 - 《数据科学实战》
+- Numerical Python
+- Think Stats
+- Python for scientists
+- http://scipy-lectures.org
+---
+- 《赤裸裸的统计学》
+- 《统计学的世界》
+- 《女士品茶》
+- 《数据科学实战第1章》
+
 
 
 
