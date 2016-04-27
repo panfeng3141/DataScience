@@ -37,6 +37,7 @@
 - Think Stats
 - Python for scientists
 - [Scipy Lecture Notes](http://scipy-lectures.org)
+
 ---
 - 《赤裸裸的统计学》
 - 《统计学的世界》
