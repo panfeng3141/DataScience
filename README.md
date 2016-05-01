@@ -56,16 +56,16 @@
 +学习使用Google Ngram Viewer
 ![](https://raw.githubusercontent.com/panfeng3141/pic/master/goole.png)
   
-+Simpson's Paradox
++[Simpson's Paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 
-＋贝叶斯定理
-P(A)发病概率,P(A)=0.001
-P(a)不发病概率,P(a)=1-P(A)=0.999
-P(+|A)发病被检查出对概率＝0.99
-P(+|a)不发病概被检出有病对概率＝0.05
-P(+)不考虑其他因素，被查处阳性概率
-P(+)＝
-所以，P(+|A)＝P(+|A)＊P(A)／P(+)＝0.0194
+＋[贝叶斯定理](https://zh.wikipedia.org/wiki/贝叶斯定理)
+ P(A)发病概率,P(A)=0.001
+ P(a)不发病概率,P(a)=1-P(A)=0.999
+ P(+|A)发病被检查出对概率＝0.99
+ P(+|a)不发病概被检出有病对概率＝0.05
+ P(+)不考虑其他因素，被查处阳性概率
+ P(+)＝P(+|A)*P(A)+ P(+|a)*P(a)=0.05094
+ 所以，P(+|A)＝P(+|A)＊P(A)／P(+)＝0.0194
 
 
 
