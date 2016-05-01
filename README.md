@@ -52,11 +52,14 @@
   
 
 ＋理解[双盲实验](https://en.wikipedia.org/wiki/Blind_experiment#Double-blind_trials)
+ 心理学经典实验方式之一，主要了是为了避免主试和被试对试验结果的误差。
+ 之前做过用户关于音效的测试，采用了这个试验，主要是在测试人员和被测都不知道的情况下，去观察用户对音频效果是否高品质的喜好。
 
 +学习使用Google Ngram Viewer
 ![](https://raw.githubusercontent.com/panfeng3141/pic/master/goole.png)
   
 +[Simpson's Paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
+以［男女性别比例］（http://www.guokr.com/article/6222/）为例
 
 ＋[贝叶斯定理](https://zh.wikipedia.org/wiki/贝叶斯定理)
  P(A)发病概率,P(A)=0.001
