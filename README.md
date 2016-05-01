@@ -44,8 +44,28 @@
 - 《女士品茶》
 - 《数据科学实战第1章》
 
-－end－
+##练习题
+＋图解中国人到生活水平
+  中国人到生活水平，是一个抽象到概念，需要对概念对操作化，变成可操作可衡量对具体指标，这里借用恩格尔系数作为衡量指标。
+  ！[]("https://raw.githubusercontent.com/panfeng3141/pic/master/恩格尔系数.png")
+  数据来源：国家统计局－城乡居民恩格尔系数
+  
 
+＋理解[双盲实验](https://en.wikipedia.org/wiki/Blind_experiment#Double-blind_trials)
+
++学习使用Google Ngram Viewer
+![]("https://raw.githubusercontent.com/panfeng3141/pic/master/goole.png")
+  
++Simpson's Paradox
+
+＋贝叶斯定理
+P(A)发病概率,P(A)=0.001
+P(a)不发病概率,P(a)=1-P(A)=0.999
+P(+|A)发病被检查出对概率＝0.99
+P(+|a)不发病概被检出有病对概率＝0.05
+P(+)不考虑其他因素，被查处阳性概率
+P(+)＝
+所以，P(+|A)＝P(+|A)＊P(A)／P(+)＝0.0194
 
 
 
