@@ -227,5 +227,5 @@ Bootstrap的官方仓库twbs/bootstrap、你在GitHub上克隆的仓库my/bootst
 + 配置别名
 
 ###相关学习资料
-[Git Cheat Sheet]!(http://pan.baidu.com/s/1jGxjQL4#path=%252Fpub%252Fgit)
+[`Git Cheat Sheet`](http://pan.baidu.com/s/1jGxjQL4#path=%252Fpub%252Fgit)
 
