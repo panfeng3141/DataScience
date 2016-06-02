@@ -162,17 +162,70 @@ By panfeng3141  2015-5-10
 
 ###标签管理
 
+发布一个版本时，我们通常先在版本库中打一个标签,唯一确定了打标签时刻的版本,方便存取。
+
 + 创建标签
 
+创建的标签都只存储在本地，不会自动推送到远程
+
+`git tag <name>`创建标签 ＃默认标签是打在最新提交的commit上的
+
+`git tag`查看标签
+
+ `git show <tagname>`查看标签信息
+ 
+ 场景：有时候，如果忘了打标签，比如，现在已经是周五了，但应该在周一打的标签没有打，怎么办？
+ 
+ 方法是找到历史提交的commit id，然后打上就可以了：
+ 
+ `git tag <name> commit id`给制定commit id创建标签
+ 
 + 操作标签
+
+推送本地标签到远程
+
+`git push origin <tagname>`#推送一个本地标签
+
+`git push origin --tags`#推送全部未推送过的本地标签
+
+删除标签
+
+`git tag -d <tagname>`删除本地一个本地标签
+
+`git tag -d <tagname>`删除一个远程标签#先从本地删除
+
+`git push origin :refs/tags/<tagname>`#再从远程删除
 
 ###使用GitHub
 
+GitHub是什么？
+
++ 免费的远程仓库，存放个人的开源项目。
+
++ 是一个开源协作社区，通过GitHub，既可以让别人参与你的开源项目，也可以参与别人的开源项目。
+
+step1 在GitHub上，可以任意Fork开源仓库；
+
+step2 自己拥有Fork后的仓库的读写权限；
+
+step3 可以推送pull request给官方仓库来贡献代码。
+
+---
+
+ps：一定要从自己的账号下clone仓库，这样你才能推送修改。如果从bootstrap的作者的仓库地址git@github.com:twbs/bootstrap.git克隆，因为没有权限，你将不能推送修改。
+
+Bootstrap的官方仓库twbs/bootstrap、你在GitHub上克隆的仓库my/bootstrap，以及你自己克隆到本地电脑的仓库，他们的关系就像下图显示的那样：
+
+![](https://raw.githubusercontent.com/panfeng3141/pic/master/fork.png)
+ 
 ###自定义Git
+
++ 搭建Git服务器
 
 + 忽略特殊文件
 
 + 配置别名
 
-+ 搭建Git服务器
+###相关学习资料
+[Git Cheat Sheet]!(http://pan.baidu.com/s/1jGxjQL4#path=%252Fpub%252Fgit)
 
